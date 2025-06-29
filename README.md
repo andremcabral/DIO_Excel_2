@@ -1,2 +1,4 @@
-# DIO_Excel_2
-Curso DIO - Santander - Excel com Inteligência Artificial - Entrega de Imposto de Renda
+DIO_Excel
+Curso DIO
+Santander - Excel com Inteligência Artificial
+Entrega da planilha das aulas de Controle de Imposto de Renda
